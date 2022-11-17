@@ -1,6 +1,6 @@
-### Olá! 👋 
-- 🔭 Trabalho com segurança cibernética
-- 🌱 Estudando astrofísica
+### Hello! 👋 
+- 🔭 Working on something new
+- 🌱 Cyber Security & Astrophysics
 
 <div align="center">
   

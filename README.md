@@ -1,11 +1,11 @@
 ### Hello! 👋
 
 - 🔐 Pentest
-  - 🎯 Red Team
-  - 🔬 Reverse Engineering
+- 🎯 Red Team
+- 🔬 Reverse Engineering
 - 🛡️ Cyber Threat Intelligence
 - 💻 Development
-  - 🔓 Open Source
+- 🔓 Open Source
 - 🐧 Debian fan
 
 <div align="center">

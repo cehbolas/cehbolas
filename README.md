@@ -23,15 +23,10 @@ Trabalho com segurança da informação, com foco em pentest e desenvolvimento d
 
 ---
 
-### Estatísticas
+### Linguagens
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cehbolas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cehbolas&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cehbolas&theme=dark&hide_border=true&locale=pt_BR" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cehbolas&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
 ---

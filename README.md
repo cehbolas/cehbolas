@@ -1,10 +1,12 @@
-### Olá! 👋
+### Hello! 👋
 
-Trabalho com segurança da informação, com foco em pentest e desenvolvimento de ferramentas internas.
-
-- 🔐 Pentester — aplicações web, mobile e infraestrutura
-- 🛠️ Desenvolvo ferramentas para automatizar análises de segurança
-- 🌌 Interesse em Astrofísica nas horas vagas
+- 🔐 Pentest
+  - 🎯 Red Team
+  - 🔬 Reverse Engineering
+- 🛡️ Cyber Threat Intelligence
+- 💻 Development
+  - 🔓 Open Source
+- 🐧 Debian fan
 
 <div align="center">
   <picture>

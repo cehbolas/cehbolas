@@ -6,10 +6,6 @@ Trabalho com segurança da informação, com foco em pentest e desenvolvimento d
 - 🛠️ Desenvolvo ferramentas para automatizar análises de segurança
 - 🌌 Interesse em Astrofísica nas horas vagas
 
----
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cehbolas/cehbolas/output/github-contribution-grid-snake-dark.svg">

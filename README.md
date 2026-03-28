@@ -1,7 +1,7 @@
-### Hello! 👋
+### Hello!
 
-- 🔐 Pentest
 - 🎯 Red Team
+- 🔐 Pentest
 - 🔬 Reverse Engineering
 - 🛡️ Cyber Threat Intelligence
 - 💻 Development

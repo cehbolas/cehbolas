@@ -1,0 +1,17 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configs e caches de ferramentas locais (editores, assistentes, etc).
+.claude/
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.cursor/
+.cursorrules
+.aider*
+.superpowers/
+.specstory/
+.continue/
+.windsurf/
+.github-copilot*
